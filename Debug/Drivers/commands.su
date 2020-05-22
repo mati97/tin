@@ -1,0 +1,4 @@
+commands.c:13:6:Camera	16	static
+commands.c:29:6:Write	24	static
+commands.c:39:6:Read	128	static
+commands.c:52:6:init_commands	8	static
